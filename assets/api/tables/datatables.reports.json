@@ -1,0 +1,28 @@
+{
+  "aaData": [
+    {
+      "href": "Flouro Report",
+      "title": "This is the Old Count qualifying cases Report. I updated for less work."
+    },
+    {
+      "href": "Tax Report",
+      "title": "Tax Sum for all non exempt facilities."
+    },
+    {
+      "href": "Aging Report",
+      "title": "Aging report for all facilities."
+    },
+    {    
+      "href": "Accounts Receivable by State",
+      "title": "Report to supply to Billy Smith."
+    },
+    {
+      "href": "Partnership Summary Chart",
+      "title": "Print chart report to provide to individual partnerships."
+    },
+    {
+      "href": "Unapplied Payments",
+      "title": "Print report showing payments that were accepted but not applied to invoices."
+    }
+  ]
+}

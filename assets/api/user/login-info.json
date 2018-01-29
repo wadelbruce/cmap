@@ -1,0 +1,18 @@
+{
+    "userID": "68",
+    "username": "wadebruce",
+    "fullname": "Wade Bruce",
+    "title": "Technician",
+    "email": "wadebruce@ellinc.net",
+    "userstatus": "Active",
+    "address": "320 W Francis",
+    "city": "Pampa",
+    "state": "Texas",
+    "zip": "79065",
+    "picture": "../../../assets/img/avatars/wade.JPG",
+    "activity": 12,
+    "theme": "Dark Elegance",
+    "phone": "8066628842",
+    "password": "sucka"
+
+}

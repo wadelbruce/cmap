@@ -1,0 +1,16 @@
+{
+    "docID": "2356",
+    "title": "Dr",
+    "firstname": "Sloan",
+    "lastname": "Teeple",
+    "fullname": "Sloan Teeple",
+    "email": "dr@hospital.com",
+    "addname": "Office",
+    "address": "320 W Francis",
+    "city": "Amarillo",
+    "state": "Texas",
+    "zip": "79065",
+    "phone": "8066629658",
+    "fax": "8066696880",
+    "notes": "All the information is pulled from physician.json file. Audit logs are pulled via json aswell"
+}
